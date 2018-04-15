@@ -1,16 +1,16 @@
 # たのしいPipenv
 
----
+---?image=pika.png&size=cover
 
 ## 私は
 
 - coord.e [こーでぃ]
 - Python, JavaScript, 等のやわらかい言語が好き
 - C++, 低レイヤ
-- 自動化狂
+- 自動化狂t
 
-- @fa[twitter](@coord\_e)
-- @fa[github](github.com/coord-e)
+- @fa[twitter] @coord\_e
+- @fa[github] github.com/coord-e
 
 ---
 
