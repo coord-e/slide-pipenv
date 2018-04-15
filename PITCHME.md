@@ -137,4 +137,4 @@ pip install pipenv
 
 # ありがとうございました
 
-by @coord\_e \<me@coord-e.com\>
+by @coord\_e
