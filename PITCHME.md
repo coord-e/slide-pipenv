@@ -2,6 +2,29 @@
 
 ---
 
+## 私は
+
+- coord.e [こーでぃ]
+- Python, JavaScript, 等のやわらかい言語が好き
+- C++, 低レイヤ
+- 自動化狂
+
+- @fa[twitter](@coord\_e)
+- @fa[github](github.com/coord-e)
+
+---
+
+## Pythonしてますか?
+
+---
+
+## Pythonのパッケージ管理といえば
+# `pip`
+
+しかし...
+
+---
+
 ## 僕は`pip`が嫌いだった
 
 ---
