@@ -2,7 +2,7 @@
 
 ---
 
-# 僕は`pip`が嫌いだった
+## 僕は`pip`が嫌いだった
 
 ---
 
@@ -14,7 +14,7 @@
 
 ---
 
-# それ、`Pipenv`でできるよ!
+## それ、`Pipenv`でできるよ!
 
 ---
 
@@ -40,7 +40,7 @@
 
 ---
 
-# 例: 依存関係の記述
+## 例: 依存関係の記述
 
 ```bash
 pipenv install pyflakes matplotlib
@@ -48,7 +48,7 @@ pipenv install pyflakes matplotlib
 
 ---
 
-# 例: 依存関係の記述
+## 例: 依存関係の記述
 
 ```
 [packages]
@@ -59,7 +59,7 @@ matplotlib = "*"
 
 ---
 
-# 例: 依存関係のロック
+## 例: 依存関係のロック
 
 ```
 pipenv lock
@@ -69,7 +69,7 @@ pipenv lock
 
 ---
 
-# 例: 依存関係のロック
+## 例: 依存関係のロック
 
 ```json
 {
@@ -88,7 +88,7 @@ pipenv lock
 
 ---
 
-# 例: 既存プロジェクトからインストール
+## 例: 既存プロジェクトからインストール
 
 ```shell
 $ ls
@@ -100,7 +100,7 @@ Installing dependencies from Pipfile.lock (8cb657)…
 
 ---
 
-# 例: 仮想環境に入る
+## 例: 仮想環境に入る
 
 ```shell
 pipenv shell
