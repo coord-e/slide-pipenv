@@ -21,7 +21,9 @@
 ## Pythonのパッケージ管理といえば
 # `pip`
 
-しかし...
+`easy_install`? 知らないなぁ
+
+## しかし...
 
 ---
 
@@ -45,6 +47,11 @@
 
 - "人間のためのPython開発ワークフロー"
 - "Python.org が正式に推薦するPythonパッケージングツール"
+
+---
+
+# `Pipenv`
+
 - 依存関係を`Pipfile`に記述
 - 依存関係の組み合わせを`Pipfile.lock`に書いてくれる
 - `dev-packages`と`packages`の区別もある
