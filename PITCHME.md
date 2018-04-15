@@ -135,6 +135,6 @@ pip install pipenv
 
 ---
 
-# ありがとうございました
+## ありがとうございました
 
 by @coord\_e
