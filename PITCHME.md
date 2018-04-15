@@ -7,7 +7,7 @@
 - coord.e [こーでぃ]
 - Python, JavaScript, 等のやわらかい言語が好き
 - C++, 低レイヤ
-- 自動化狂t
+- 自動化狂
 
 - @fa[twitter] @coord\_e
 - @fa[github] github.com/coord-e
@@ -80,7 +80,7 @@ pyflakes = "*"
 matplotlib = "*"
 ```
 
-@[1] @[3] @[4]
+@[1]@[3]@[4]
 
 ---
 
