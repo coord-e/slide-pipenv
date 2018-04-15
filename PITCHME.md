@@ -117,13 +117,13 @@ pipenv shell
 
 # 普及してない...
 
-![pipenv](pipenv-num.png)
+![requirements.txts](require-num.png)
 
 ---
 
 # 普及してない...
 
-![requirements.txts](require-num.png)
+![pipenv](pipenv-num.png)
 
 ---
 
